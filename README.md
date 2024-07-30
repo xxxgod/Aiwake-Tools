@@ -195,47 +195,47 @@
 - PyGame: 基于Python的多媒体开发和游戏软件开发模块
 - Web框架: Django 开源web开发框架，它鼓励快速开发,并遵循MVC设计
 
-## Java
-1.华为jdk镜像
-jdk:https://www.injdk.cn/
-2.Git
-https://gitforwindows.org/
-3.CURL
-curl.haxx.se/download.html
-4.Jenkins
-jenkins
-https://www.jenkins.io/zh/download/
-5.idea插件下载
-https://plugins.jetbrains.com
-1.Jrebel热部署  
-注冊碼：https://jrebel.qekang.com/
-2.GitHub Copilot
-自動補全代碼
-3.Translation 翻译插件
-6.在线工具
-开源中国-在线工具
-properties转yml https://www.toyaml.com/index.html
-7.图形报表
-echarts
-8.接口API
-swagger  
-eolinker
-9.糊涂-java工具包
-10.数据库
-influxDB: influxdata.com
-github.com/influxdata/influxdb
-github.com/influxdata/influxdb-java
-https://dev.mysql.com/downloads/mysql/
-11.代码扫描
-sonarqube ：保证你写出更安全更干净的代码，
-Alibaba 开源的 Java 诊断工具 Arthas ，
-DEA 自带的代码分析等工具进行代码扫描
-11.文档导出（PDF推荐）
-https://www.aspose.com/
-http://jakarta.apache.org/poi/index.html (用于处理Excel,WORD等文档的项目)
-12.远程调用  forest-远程调用  https://github.com/OpenFeign/feign
-13.上传下载 http://FileUpload http://jakarta.apache.org/commons/fileupload (用于处理HTTP文件上传得项目)
-14.任务调度 https://www.xuxueli.com/xxl-job/
-15.nodeJS https://nodejs.org/dist/latest-v16.x/
+## Java   
+1.华为jdk镜像   
+jdk:https://www.injdk.cn/   
+2.Git   
+https://gitforwindows.org/   
+3.CURL  
+curl.haxx.se/download.html   
+4.Jenkins   
+jenkins   
+https://www.jenkins.io/zh/download/   
+5.idea插件下载   
+https://plugins.jetbrains.com   
+1.Jrebel热部署     
+注冊碼：https://jrebel.qekang.com/   
+2.GitHub Copilot   
+自動補全代碼   
+3.Translation 翻译插件   
+6.在线工具   
+开源中国-在线工具   
+properties转yml https://www.toyaml.com/index.html   
+7.图形报表   
+echarts   
+8.接口API  
+swagger       
+eolinker    
+9.糊涂-java工具包   
+10.数据库   
+influxDB: influxdata.com   
+github.com/influxdata/influxdb   
+github.com/influxdata/influxdb-java   
+https://dev.mysql.com/downloads/mysql/   
+11.代码扫描   
+sonarqube ：保证你写出更安全更干净的代码，   
+Alibaba 开源的 Java 诊断工具 Arthas ，   
+DEA 自带的代码分析等工具进行代码扫描   
+11.文档导出（PDF推荐）   
+https://www.aspose.com/   
+http://jakarta.apache.org/poi/index.html (用于处理Excel,WORD等文档的项目)   
+12.远程调用  forest-远程调用  https://github.com/OpenFeign/feign  
+13.上传下载 http://FileUpload http://jakarta.apache.org/commons/fileupload (用于处理HTTP文件上传得项目)   
+14.任务调度 https://www.xuxueli.com/xxl-job/    
+15.nodeJS https://nodejs.org/dist/latest-v16.x/   
 
 
